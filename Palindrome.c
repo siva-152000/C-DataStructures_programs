@@ -16,7 +16,7 @@ int main()
          }
    printf("\n Reverse of the number is:%d",rev);
    if(temp==rev)
-   printf("%d is a palindrome",temp);
+          printf("%d is a palindrome",temp);
    else
-   printf("%d is not a palindrome",temp);
+         printf("%d is not a palindrome",temp);
 }
